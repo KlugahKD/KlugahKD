@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **Dotnet, Angular, Vue js**
 
- 💬 Ask me about **Dotnet, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Dotnet, Angular, or CSharp,**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **I am working on becoming a better version of myself**
  
  </div>
  
@@ -28,11 +28,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://klugahd.netlify.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
- <hr/>
+![Split-section](images/split%20section.png)
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -42,17 +42,17 @@
 </div>
 
 <br/>
-<hr/>
+![Split-section](images/split%20section.png)
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KlugahKD/KlugahKD/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
-<hr/>
+![Split-section](images/split%20section.png)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -64,7 +64,7 @@
 </div>
 
 <br/><br/>
-<hr/>
+![Split-section](images/split%20section.png)
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
