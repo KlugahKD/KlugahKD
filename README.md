@@ -18,4 +18,7 @@ I'm a passionate software developer with a strong focus on backend engineering u
 
 Feel free to check out my projects or connect with me!
 
+
+[![Klugah's GitHub stats](https://github-readme-stats.vercel.app/api?username=klugahkd)](https://github.com/klugahkd/github-readme-stats)
+
 ---
