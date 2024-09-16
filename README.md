@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**KlugahKD/KlugahKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Hi, I'm Daniel Klugah! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate software developer with a strong focus on backend engineering using **.NET** and **C#**, while also building interactive, scalable front-end experiences with **Vue.js** and **Nuxt**. My projects are powered by **TypeScript** on the front end to ensure type safety and maintainability.
+
+### 🚀 What I Do:
+- **Backend Engineering**: Crafting efficient and scalable server-side applications with .NET/C#.
+- **Frontend Development**: Creating dynamic user interfaces with Vue.js and Nuxt.
+- **Full-Stack Projects**: Blending the best of both worlds for seamless, full-stack applications.
+
+### 🎓 Education:
+- **BSc in Computer Science** from the **University of Ghana**. 
+
+### 🌱 Currently Learning:
+- Always eager to explore new technologies and tools that push boundaries.
+
+Feel free to check out my projects or connect with me!
+
+---
